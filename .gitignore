@@ -1,0 +1,6 @@
+node_modules
+browser_data
+error_snapshots
+.env
+dist
+*.log
